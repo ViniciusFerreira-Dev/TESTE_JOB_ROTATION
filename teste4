@@ -1,0 +1,8 @@
+O carro percorre essa distância a uma velocidade de 110 km/h. Assim, o tempo que ele leva para percorrer os 100 km é dado por:
+
+tempo do carro = distância / velocidade = 100 km / 110 km/h = 0,909 horas
+O caminhão, por sua vez, percorre a mesma distância a uma velocidade de 80 km/h, mas leva 5 minutos extras para passar em cada um dos pedágios.
+Como não sabemos a distância entre os pedágios, vamos considerar que o caminhão leva 10 minutos extras ao longo de todo o percurso (5 minutos em cada pedágio). Assim, o tempo que ele leva para percorrer os 100 km é dado por:
+
+tempo do caminhão = distância / velocidade + tempo extra = 100 km / 80 km/h + 10 minutos = 1,25 horas
+Portanto, o tempo total de viagem do carro é de 0,909 horas e o tempo total de viagem do caminhão é de 1,25 horas.
