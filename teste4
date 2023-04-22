@@ -6,3 +6,14 @@ Como não sabemos a distância entre os pedágios, vamos considerar que o caminh
 
 tempo do caminhão = distância / velocidade + tempo extra = 100 km / 80 km/h + 10 minutos = 1,25 horas
 Portanto, o tempo total de viagem do carro é de 0,909 horas e o tempo total de viagem do caminhão é de 1,25 horas.
+
+Distância dos veículos da cidade
+A distância que o carro está de Ribeirão Preto no momento em que eles se encontram é de:
+
+distância do carro a RP = distância total / 2 = 100 km / 2 = 50 km
+
+Já a distância que o caminhão está de Ribeirão Preto no momento em que eles se encontram é de:
+
+distância do caminhão a RP = distância total / 2 = 100 km / 2 = 50 km
+
+Portanto, ambos os veículos estão exatamente a mesma distância de Ribeirão Preto no momento em que se encontram.
